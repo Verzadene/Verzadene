@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there 👋
+My name is Zillen, an aspiring Machine Learning Artificial Intelligence Developer in the Philippines.
+
+I'm eager to learn new tools and technologies to broaden my skills.
+
 
 <!--
 **Verzadene/Verzadene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
