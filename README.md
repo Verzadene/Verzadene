@@ -3,6 +3,9 @@ My name is Zillen, an aspiring Machine Learning Artificial Intelligence Develope
 
 I'm eager to learn new tools and technologies to broaden my skills.
 
+### About Me
+* 🎓 A 3rd Year BS Computer Engineering Student at De La Salle University - Dasmariñas
+* 💻 Currently Studying Python and C
 
 <!--
 **Verzadene/Verzadene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
